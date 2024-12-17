@@ -1,4 +1,4 @@
-var capitals = function (word) {
+let capitals = function (word) {
 	return word.split('').map((char,index) => {
     if (char === char.toUpperCase()) {
       return index;
