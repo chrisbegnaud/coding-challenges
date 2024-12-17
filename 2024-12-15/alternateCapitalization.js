@@ -10,4 +10,4 @@ function capitalize(s){
     }
   }
     return [str1, str2];
-};
+}
